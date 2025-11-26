@@ -10,7 +10,6 @@
 
 
   (https://gitlab.com/nanuchi/techworld-js-docker-demo-app)
-Of course — here’s your cleaned-up, professional-looking README without any emojis:
 
 ---
 
